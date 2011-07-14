@@ -1,0 +1,5 @@
+module Split
+  module Analytical
+    VERSION = "0.0.1"
+  end
+end

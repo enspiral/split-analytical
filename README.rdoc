@@ -1,0 +1,5 @@
+== Split Analytical
+
+uses Analytical[https://github.com/jkrall/analytical] to send data from Split[https://github.com/andrew/split/] to third party analytics tools
+
+

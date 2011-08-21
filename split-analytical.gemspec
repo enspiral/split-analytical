@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency(%q<split>, ["~> 0.2.3"]) 
-  s.add_dependency(%q<analytical>, ["~>  2.11.0"]) 
+  s.add_dependency(%q<analytical>, [">  3.0.0"]) 
   
   s.add_development_dependency 'bundler',     '~> 1.0'
   s.add_development_dependency 'rspec',       '~> 2.6'
